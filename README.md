@@ -29,3 +29,8 @@ To use this script:
  - [dbp8890](https://github.com/dbp8890/motion-trails/tree/master/MotionTrail)
  - [Katherine Oelsner](https://readme.so/) (Her readme.so made it easier to write this readme file)
 
+
+## License
+
+[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
