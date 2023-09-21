@@ -6,6 +6,11 @@ Because I've seen a lot of Trail made in GDScript and none in C#, I figured I mi
 I translated [metanoia83's Motion Trail](https://github.com/metanoia83/Godot-4.0-Motion-Trail) which was based on [dbp8890's Godot 3's Motion Trail](https://github.com/dbp8890/motion-trails).
 
 
+## Demo
+
+Here's a GIF demo of how it'd look like:
+
+![](https://github.com/q8geek/Godot-4-Basic-3D-Trail/blob/main/demo.gif)
 ## Features
 
 - A boolean value to enable/disable trailing
@@ -32,5 +37,5 @@ To use this script:
 
 ## License
 
-[The Unlicense](https://choosealicense.com/licenses/unlicense/)
+[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
